@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A5CC22612AB06F0400F9070D /* Build configuration list for PBXProject "小費，匯率，單位換算" */;
+			buildConfigurationList = A5CC22612AB06F0400F9070D /* Build configuration list for PBXProject "小費計算" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -290,6 +290,7 @@
 				DEVELOPMENT_TEAM = LN86J53QW3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "小費，匯率，單位換算/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "小費計算";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,6 +319,7 @@
 				DEVELOPMENT_TEAM = LN86J53QW3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "小費，匯率，單位換算/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "小費計算";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -339,7 +341,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A5CC22612AB06F0400F9070D /* Build configuration list for PBXProject "小費，匯率，單位換算" */ = {
+		A5CC22612AB06F0400F9070D /* Build configuration list for PBXProject "小費計算" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A5CC22782AB06F0600F9070D /* Debug */,
